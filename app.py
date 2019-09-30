@@ -8,7 +8,6 @@ from flask_pymongo import PyMongo
 from bson.objectid import ObjectId 
 
 
-
 app = Flask(__name__)
 
 app.config["MONGO_DBNAME"] = 'update_keys'
@@ -16,11 +15,7 @@ app.config["MONGO_DBNAME"] = 'update_keys'
 app.config["MONGO_URI"] = 'mongodb+srv://bhatia1097:pd1097@mycluster-qykbg.mongodb.net/update_keys?retryWrites=true&w=majority'
 
 
-
 mongo = PyMongo(app)
-
-
-
 
 
 @app.route('/')
