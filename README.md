@@ -7,6 +7,16 @@ Data Centric Development Milestone Project  - Code Institute
  
 # Features
 
+- Interactive Dashboard
+  - Navbar - Consists of Links to Homepage and Add new song.
+  - Home - Home page displays list of all new and updated songs.
+  
+- Song Info - On dropdown click user gets song's information including it's Genre and Artist
+
+- Link - On click user gets directed to new page.
+
+- Add new song - User or artist can add his/her discovery or creation.
+
 # Technologies Used
 
 - Visula Studio Code IDE
