@@ -54,12 +54,12 @@ The site was tested across multiple browsers (Chrome, Safari, Internet Explorer,
 # Deployment
 
 The following section describes the process to deploy this project to Heroku.
-  1.Ensure all required technologies are installed locally, as per the requirements.txtfile.
-  2.Via Linux Terminal, login to Heroku, using 'heroku login' command. Input Heroku login details.
-  3.Create new Heroku app, using 'heroku apps:create appname' command.
-  4.Push project to Heroku, using 'push -u heroku master' command.
-  5.Create scale, using 'heroku ps:scale web=1' command.
-  6.Login to Heroku and select newly created app.
-  7.Select settings. Select ‘Reveal Config'. Add IP 0.0.0.0 and PORT 5000.
-  8.View app: In settings, select Domain URL, NOT Git URL to view your hosted application.
-  9.Deployed via Heroku: https://nukeys.herokuapp.com/
+  1. Ensure all required technologies are installed locally, as per the requirements.txtfile.
+  2. Via Linux Terminal, login to Heroku, using 'heroku login' command. Input Heroku login details.
+  3. Create new Heroku app, using 'heroku apps:create appname' command.
+  4. Push project to Heroku, using 'push -u heroku master' command.
+  5. Create scale, using 'heroku ps:scale web=1' command.
+  6. Login to Heroku and select newly created app.
+  7. Select settings. Select ‘Reveal Config'. Add IP 0.0.0.0 and PORT 5000.
+  8. View app: In settings, select Domain URL, NOT Git URL to view your hosted application.
+  9. Deployed via Heroku: https://nukeys.herokuapp.com/
