@@ -4,14 +4,29 @@ Share and Discover Underground Music || Click here for [Demo](https://nukeys.her
 Data Centric Development Milestone Project  - Code Institute
 
 # UX
+
+This application aims to show underground/undiscovered Music and Artists. Being a music enthusiast I have
+created this application and also shared some songs that I have researched so far. Through this application
+I would also like to encourage others that if anyone likes a music artist or a song which has not achieved 
+much popularity in world yet then please add that music here.
  
+ - Wireframes
+  - Home
+    ![Screenshot](Wireframes/img1.jpg)
+    
+  - Submit Page
+    ![Screenshot](Wireframes/img2.jpg)
+    
+    
+    
+    
 # Features
 
 - Interactive Dashboard
   - Navbar - Consists of Links to Homepage and Add new song.
-  - Home - Home page displays list of all new and updated songs.
+  - Home - Home page displays list of all updated songs.
   
-- Song Info - On dropdown click user gets song's information including it's Genre and Artist
+- Song Info - On dropdown click user gets song's information including it's Genre and Artist.
 
 - Link - On click user gets directed to new page.
 
@@ -20,7 +35,7 @@ Data Centric Development Milestone Project  - Code Institute
 # Technologies Used
 
 - Visula Studio Code IDE
-   - This project used Cloud 9, an online integrated development environment, to construct the code end to end.
+   - This project used Visual Studio Code IDE to construct the code end to end.
    
 - Flask
    - This project uses Flask, a Python micro-framework. It is classified as a microframework because it does not require particular          tools or libraries.
@@ -29,7 +44,7 @@ Data Centric Development Milestone Project  - Code Institute
    - This project uses mongoDB, a free and open-source cross-platform document-oriented database program. Classified as a NoSQL              database program, MongoDB uses JSON-like documents with schemata.
 
 - Python
-   - This project uses Python, an interpreted high-level programming language for general-purpose programming and used to write the          logic of this game, which is included within .py files.
+   - This project uses Python, an interpreted high-level programming language for general-purpose programming and used to write the          logic of this app, which is included within .py files.
 
 - HTML
    - This project uses HTML, the standard mark-up language used to build website layout, which is included within the .html files.
