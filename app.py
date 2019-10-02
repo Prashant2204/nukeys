@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 app.config["MONGO_DBNAME"] = 'update_keys'
 
-app.config["MONGO_URI"] = 'mongodb+srv://bhatia1097:pd1097@mycluster-qykbg.mongodb.net/update_keys?retryWrites=true&w=majority'
+app.config["MONGO_URI"] = os.getenv('MONGO_URI')
 
 
 mongo = PyMongo(app)
