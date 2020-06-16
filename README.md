@@ -1,5 +1,5 @@
 # nuKeys
-Share and Discover Underground Music || Click here for [Demo](https://nukeys.herokuapp.com/)
+Share and Discover Underground Music 
 
 Data Centric Development Milestone Project  - Code Institute
 
