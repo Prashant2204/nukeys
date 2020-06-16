@@ -87,4 +87,4 @@ The following section describes the process to deploy this project to Heroku.
   6. Login to Heroku and select newly created app.
   7. Select settings. Select ‘Reveal Config'. Add IP 0.0.0.0 and PORT 5000.
   8. View app: In settings, select Domain URL, NOT Git URL to view your hosted application.
-  9. Deployed via Heroku: https://nukeys.herokuapp.com/
+  9. Deployed via Heroku
