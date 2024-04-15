@@ -1,8 +1,6 @@
 # nuKeys
 Share and Discover Underground Music 
 
-Data Centric Development Milestone Project  - Code Institute
-
 # UX
 
 This application aims to show underground/undiscovered Music and Artists. Being a music enthusiast I have
